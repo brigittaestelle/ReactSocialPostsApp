@@ -3,9 +3,18 @@
   border-bottom: 1px solid grey;
 }
 
+h3,
+p {
+  margin-left: 5%;
+}
+
+p {
+  color: #f1948a;
+}
+
 .PostInList i {
   position: absolute;
-  top: 0;
+  top: 10%;
   right: 0;
   cursor: pointer;
 }

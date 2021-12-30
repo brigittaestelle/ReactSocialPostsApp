@@ -12,7 +12,7 @@ export default function SocialPosts() {
     {
       title: "Beatrice",
       thought:
-        "My friend Beatrice has mad skills. She mae the top 10. I'm so proud of her!",
+        "My friend Beatrice has mad skills. She made the top 10. I'm so proud of her!",
     },
   ]);
   function deletePost(i: number) {

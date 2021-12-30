@@ -1,5 +1,6 @@
 .PostForm {
   display: flex;
+  margin-left: 5%;
   flex-direction: column;
   position: relative;
 }
@@ -9,4 +10,15 @@
   top: 0;
   right: 0;
   cursor: pointer;
+}
+button {
+  margin-top: 1%;
+  margin-left: 10%;
+  cursor: pointer;
+  width: 10%;
+  height: 10%;
+  background: white;
+  border-radius: 15%;
+  color: #f1948a;
+  border: solid #f1948a;
 }
